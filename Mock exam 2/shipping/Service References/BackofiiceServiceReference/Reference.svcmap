@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e986c77d-d1e5-4efc-b781-773609a62740" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WebshopService.wsdl" MetadataType="Wsdl" ID="fc45915e-474a-430f-932c-84e83cdba29f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="7a761fa6-4b4d-4532-9636-6a528cb3533c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" />
+    <MetadataFile FileName="WebshopService.xsd" MetadataType="Schema" ID="bf527181-000a-47a2-a24e-2a9d57f1ade5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="28aca3c5-af5e-4d19-8dc8-160c3a7d282d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" />
+    <MetadataFile FileName="WebshopService1.xsd" MetadataType="Schema" ID="ec2006af-697f-40a2-ae70-f5dd4cbeebe7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/WebShopService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
